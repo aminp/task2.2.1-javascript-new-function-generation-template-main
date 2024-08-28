@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" errors="0" time="0.732">
+  <testsuite name="sumOfPrimes" errors="0" failures="0" skipped="0" timestamp="2024-08-28T21:14:11" time="0.589" tests="4">
+    <testcase classname="sumOfPrimes returns the sum of all prime numbers up to a given number" name="sumOfPrimes returns the sum of all prime numbers up to a given number" time="0.002">
+    </testcase>
+    <testcase classname="sumOfPrimes returns 0 for negative input values" name="sumOfPrimes returns 0 for negative input values" time="0">
+    </testcase>
+    <testcase classname="toTitleCase converts a string to title case (first letter of each word capitalized)" name="toTitleCase converts a string to title case (first letter of each word capitalized)" time="0.001">
+    </testcase>
+    <testcase classname="toTitleCase handles empty strings and strings with only spaces" name="toTitleCase handles empty strings and strings with only spaces" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
